@@ -1,0 +1,14 @@
+name: pymc_tutorial
+
+channels:
+ - conda-forge
+ 
+dependencies:
+- python=3.6
+- ipython
+- jupyterlab
+- seaborn 
+- patsy 
+- pandas
+- theano
+- pymc3
