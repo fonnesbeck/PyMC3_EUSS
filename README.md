@@ -11,6 +11,11 @@ This intermediate-level course will provide students with hands-on experience ap
 
 ### Basic Bayesian Inference
 
+* Bayesian vs. frequentist world views
+* Bayesian inference in three steps
+* Probability distributions
+* Parameter estimation model
+
 ### Introduction to PyMC3
 
 * Variable types
