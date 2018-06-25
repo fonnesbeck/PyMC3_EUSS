@@ -46,7 +46,7 @@ This intermediate-level course will provide students with hands-on experience ap
 
 ## Software Installation
 
-Running PyMC3 requires a working Python3 interpreter, preferably Python 3.6. A complete Python installation for Mac OSX, Linux and Windows can most easily be obtained by downloading and installing the free [`Anaconda Python Distribution`](https://www.continuum.io/downloads) by ContinuumIO. 
+Running PyMC3 requires a working Python3 interpreter, preferably Python 3.6. A complete Python installation for Mac OSX, Linux and Windows can most easily be obtained by downloading and installing the free [`Anaconda Python Distribution`](https://www.continuum.io/downloads) by ContinuumIO. **If possible, please have your Python environment ste up prior to the course.**
 
 `PyMC3` can be installed using `conda`, a package management tool that is bundled with Anaconda. PyMC3 also depends on several third-party Python packages which will be automatically installed when installing via `conda`. The four required dependencies are: `Theano`, `NumPy`, `SciPy`, `Matplotlib`, and `joblib`. To take full advantage of PyMC3, the optional dependencies `seaborn`, `pandas` and `Patsy` should also be installed. You can install PyMC3 and its dependencies by cloning this repository:
 
@@ -68,3 +68,11 @@ source activate pymc_tutorial
 ```
 
 **If you would rather not install the software yourself, you can use the MyBinder.org link at the top of the page to run the course materials on a remote server**
+
+You can update the course materials at any time by pulling from the course repository. From your course directory, type:
+
+```bash
+git pull
+```
+
+Note that this will overwrite any changes you have made to notebooks that need to be updated.
