@@ -9,6 +9,8 @@ This intermediate-level course will provide students with hands-on experience ap
 
 ## Syllabus
 
+### Basic Bayesian Inference
+
 ### Introduction to PyMC3
 
 * Variable types
@@ -20,12 +22,6 @@ This intermediate-level course will provide students with hands-on experience ap
 * Metropolis sampling
 * Gradient-based sampling methods
 
-### Approximation Methods
-
-* MAP
-* Variational inference
-* ADVI
-
 ### Model Building with PyMC3
 
 * Specifying priors and likelihoods
@@ -36,12 +32,23 @@ This intermediate-level course will provide students with hands-on experience ap
 * Generalized linear models
 * Missing Data
 
+### Case Studies
+
+* Comparing two groups with continuous outcomes
+* Comparing two groups with binary outcomes
+
 ### Model Checking and Output Processing
 
 * Storage backends
 * Convergence diagnostics
 * Goodness of fit
 * Plotting and summarization
+
+### Approximation Methods
+
+* MAP
+* Variational inference
+* ADVI
 
 
 ## Software Installation
