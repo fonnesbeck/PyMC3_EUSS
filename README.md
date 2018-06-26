@@ -49,6 +49,12 @@ This intermediate-level course will provide students with hands-on experience ap
 * Goodness of fit
 * Plotting and summarization
 
+### Hierarchical Models
+
+* Partial pooling
+* Non-centered parameterization
+* Contextual effects
+
 ### Approximation Methods
 
 * MAP
